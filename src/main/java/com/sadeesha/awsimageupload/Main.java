@@ -36,5 +36,4 @@ public class Main {
 		secKey = sc.next();
 		return secKey;
 	}
-
 }
